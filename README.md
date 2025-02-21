@@ -1,4 +1,4 @@
-#Bill management system of Telangana
+#Bill management system of Telangana Hyderabad
 Prerequisites:
 Java 21 and Maven
 Mysql database server
