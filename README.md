@@ -1,7 +1,7 @@
 #Bill management system of Telangana
 Prerequisites:
 
-
+server configurations:
 Java 21 and Maven
 Mysql database server
 CREATE DATABASE cv01;
