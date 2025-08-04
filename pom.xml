@@ -81,4 +81,10 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distributionManagement>
+  <repository>
+    <id>webappcal</id>
+    <url>http://52.23.177.78:8081/nexus/content/repositories/webappcal</url>
+  </repository>
+</distributionManagement>
 </project>
