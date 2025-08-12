@@ -1,6 +1,6 @@
 #Bill management system of Telangana
 Prerequisites:
-##
+##trigger
 
 server configurations:
 Java 21 and Maven
