@@ -22,8 +22,8 @@
 <body>
    <div class="container">
       <header>
-          <h1>Electricity Bill Management App Telangana</h1>
-          <h2>Telangana Central Power Distribution Corporation Limited(APCPDCL)</h2>
+          <h1>Electricity Bill Management App </h1>
+          <h2>Andhra Central Power Distribution Corporation Limited(APCPDCL)</h2>
       </header>
       <form action="Demo" method="post">
             <label>Bill Number : </label>
