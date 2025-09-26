@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Billing</title>
+<title>Vemu</title>
 <style>
     body{background-color:#f4f4f4;margin:0;padding:0;}
     .container{max-width:1000px;background-color:#fff;margin:50px;padding:50px;margin-left:120px;border: 2px solid black;border-radius:1rem;margin-top:125px;}
