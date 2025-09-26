@@ -22,7 +22,7 @@
 <body>
    <div class="container">
       <header>
-          <h1>Electricity Bill Management App </h1>
+          <h1>Electricity Bill Payment Website </h1>
           <h2>Andhra Central Power Distribution Corporation Limited(APCPDCL)</h2>
       </header>
       <form action="Demo" method="post">
